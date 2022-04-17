@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sniper Bullet
+* source:	https://sketchfab.com/3d-models/sniper-bullet-daf6f63d08eb4c9b9e16d1ff7f2dc71a
+* author:	Andremo (https://sketchfab.com/andremo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sniper Bullet" (https://sketchfab.com/3d-models/sniper-bullet-daf6f63d08eb4c9b9e16d1ff7f2dc71a) by Andremo (https://sketchfab.com/andremo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
